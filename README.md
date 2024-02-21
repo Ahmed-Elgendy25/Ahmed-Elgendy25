@@ -31,8 +31,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
-" alt="Sass logo" title="Sass" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass logo" title="Sass" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_next_anchor]
 &nbsp;
