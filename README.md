@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ashraf</h1>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&color=F7F7F7&random=false&width=435&lines=Front-End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&color=F7F7F7&random=false&width=435&lines=WELCOME)](https://git.io/typing-svg)
 
 ## 🛠  Technologies and tools
 
