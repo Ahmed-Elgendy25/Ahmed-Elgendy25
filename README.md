@@ -7,7 +7,7 @@
 
 <a name="learning-now"></a>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,ts,java,html,css,bootstrap,tailwind,git,linux,nextjs,react,angular,vite,babel,jest,vim,redux,sass,spring,supabase,postman,postgres,mysql,obsidian,notion,npm,graphql,jquery,sass,threejs,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,ts,java,html,css,bootstrap,tailwind,git,linux,nextjs,react,angular,vue,vite,babel,jest,vim,redux,sass,spring,supabase,postman,postgres,mysql,obsidian,notion,npm,graphql,jquery,sass,threejs,ubuntu)](https://skillicons.dev)
 <a name="learning-next"></a>
 
 ## 📖  What I am currently learning / improving on
