@@ -20,7 +20,7 @@ Webpack Module Feduration Microfrontend
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmed-ashraf-37319522a/)
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:ahmedashrafelgendy25@gmail.com)
-
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/sugarabuser25/)
 [Read my Articles on My Blog-Post](https://stack-stories.netlify.app/)
 
 [tech_tools_anchor]: #bonjour--
