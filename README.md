@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="./dark_knight.jpg" width="180" style="border-radius:50%" />
+  <img src="./dark_knight.jpg" />
 </p>
 ## 🛠  Technologies and tools
 
