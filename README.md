@@ -4,7 +4,8 @@
 <p align="center">
   <img src="./dark_knight.jpg" />
 </p>
-## 🛠  Technologies and tools
+
+## 🛠 Technologies and tools
 
 <a name="learning-now"></a>
 
