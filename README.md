@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ahmed Ashraf</h1>
-
 
 <p align="center">
   <img src="./dark_knight.jpg" />
