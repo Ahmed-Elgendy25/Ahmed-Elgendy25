@@ -20,7 +20,7 @@ Webpack Module Feduration Microfrontend
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/sugarabuser25/)
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmed-ashraf-elgendy)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/ahmed-elgendy25)
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:ahmedashrafelgendy25@gmail.com)
 
 [Read my Articles on My Blog-Post](https://stack-stories.netlify.app/)
