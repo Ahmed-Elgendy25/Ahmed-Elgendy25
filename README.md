@@ -1,5 +1,5 @@
 <h1 align="center">Ahmed El-Gendy</h1>
-<p align="center">Software Engineer (More Specialist in Frontend Engineering) in Cairo. Firefox DevTools contributor.</p>
+<p align="center">Software Engineer (More Specialist in Frontend Engineering) Living in Cairo. Firefox DevTools contributor.</p>
 
 <p align="center">
   <img src="./dark_knight.jpg" alt="Dark Knight banner" />
