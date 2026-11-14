@@ -46,4 +46,4 @@ Golang for Backend systems and browser engine work, Webpack Module Federation
   <a href="https://leetcode.com/u/sugarabuser25/"><img src="./social-leetcode.svg" width="44" height="44" alt="LeetCode" /></a>
 </p>
 
-[Blog](https://stack-stories.netlify.app/) | [Portfolio](https://shofa.vercel.app)
+[Blog](https://medium.com/@ahmed202123713) | [Portfolio](https://shofa.vercel.app)
